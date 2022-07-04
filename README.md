@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imanshu Rathore</h1>
-<h3 align="center">Your average frontend dev next door</h3>
+<h3 align="center">an average frontend dev next door</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanshu03&label=Profile%20views&color=0e75b6&style=flat" alt="imanshu03" /> </p>
 
