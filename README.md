@@ -23,9 +23,9 @@
 </div>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanshu03&" alt="imanshu03" />
-  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imanshu03&show_icons=true&locale=en" alt="imanshu03" />
 </p>
 
-<p align="center"></p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanshu03&" alt="imanshu03" />
+</p>
