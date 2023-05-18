@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanshu03&label=Profile%20views&color=0e75b6&style=flat" alt="imanshu03" /> </p>
 
+- ✏️ Crafting informative and engaging tech articles regularly at https://medium.com/@imanshurathore 
+
 - 💬 Ask me about **JavaScript, React, GSAP and Responsive web design**
 
 - 📫 How to reach me **imanshurathore@gmail.com**
