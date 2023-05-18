@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Imanshu Rathore</h1>
-<h3 align="center">your average frontend dev</h3>
+<h3 align="center">Crafting beautiful and intuitive web experiences, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanshu03&label=Profile%20views&color=0e75b6&style=flat" alt="imanshu03" /> </p>
 
