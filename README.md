@@ -23,12 +23,6 @@
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imanshu03&show_icons=true&locale=en&layout=compact" alt="imanshu03"   />
-</div>
-
-<p align="center">
+  &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=imanshu03&show_icons=true&locale=en" alt="imanshu03" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imanshu03&" alt="imanshu03" />
-</p>
+</div>
