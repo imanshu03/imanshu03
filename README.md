@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imanshu03&label=Profile%20views&color=0e75b6&style=flat" alt="imanshu03" /> </p>
 
-- 💬 Ask me about **javascript, react, gsap and responsive web design**
+- 💬 Ask me about **JavaScript, React, GSAP and Responsive web design**
 
 - 📫 How to reach me **imanshurathore@gmail.com**
 
