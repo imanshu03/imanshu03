@@ -12,9 +12,9 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Best practises for Tailwind CSS in React](https://medium.com/@imanshurathore/best-practises-for-tailwind-css-in-react-ae2f5e083980?source=rss-f62728892096------2)
 - [Implementing Authentication Flow in React](https://medium.com/@imanshurathore/implementing-authentication-flow-in-react-4a4177b63e56?source=rss-f62728892096------2)
 - [Server Sent Events in React](https://medium.com/@imanshurathore/server-sent-events-in-react-30021f9ffc4a?source=rss-f62728892096------2)
-- [Publisher Subscriber Pattern in React](https://medium.com/@imanshurathore/publisher-subscriber-pattern-in-react-3c7ccb546d94?source=rss-f62728892096------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
