@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JavaScript, React, GSAP and Responsive web design**
 
-- 📫 How to reach me **imanshurathore@gmail.com**
+- 📫 For freelance/contract work, reach me on **imanshurathore@gmail.com**
 
 - ✏️ I write informative and engaging tech articles regularly at https://medium.com/@imanshurathore 
 
