@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Imanshu Rathore</h1>
-<h3 align="center">Frontend & platform engineer · 7+ years · Bengaluru, India 🇮🇳</h3>
-<p align="center">I build products end to end, from consumer launches to enterprise AI platforms, and the infrastructure under them: micro-frontends, build systems, design systems and AI tooling.</p>
+<h3 align="center">Engineer · Bengaluru, India 🇮🇳</h3>
+<p align="center">I build applications that are modern, lightning-fast, responsive, and mobile-first.</p>
 
 <p align="center">
   <a href="https://imanshu.works">imanshu.works</a> ·
+  <a href="https://x.com/ImanshuRathore">X</a> ·
   <a href="https://linkedin.com/in/imanshurathore">LinkedIn</a> ·
   <a href="https://medium.com/@imanshurathore">Medium</a> ·
   <a href="mailto:imanshurathore@gmail.com">imanshurathore@gmail.com</a>
@@ -11,24 +12,41 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=imanshu03&label=Profile%20views&color=0e75b6&style=flat" alt="imanshu03" /> </p>
 
+Fuelled by a knack for understanding users (and a dangerously well-stocked fridge of cold beer), I design experiences that pop visually, run like a dream, and feel effortless.
+
 ### 🔭 What I'm doing now
 
-- **Parallel Loop** – building a coding-agent platform: custom agents, skills, MCP servers and deterministic workflows that take tasks from Slack, Linear and GitHub all the way to PRs.
-- **BrandPay** – building their frontend platform from zero (monorepo, build tooling, CI/CD, shared component library), the iOS/Android webview shells, and an AI-driven dev lifecycle with spec-to-PR agents.
+Helping early-stage startups build their products:
 
-### 🛠️ Where I've been
+- Building a coding-agent platform: custom agents, skills, MCP servers and deterministic workflows that take tasks from Slack, Linear and GitHub all the way to PRs.
+- Building a frontend platform from zero (monorepo, build tooling, CI/CD, shared component library), with iOS/Android webview shells and a native-web bridge, plus an AI-driven dev lifecycle with spec-to-PR agents.
 
-| Company | Role | What I did |
+### 🚀 Selected work
+
+- **Saturn AI Platform** – architected and led the web platform for an AI platform that automates advice operations, compliance and investment research for UK financial advice firms.
+- **CoPlanner for Word** – Saturn's Microsoft Word add-in that helps financial advisers draft, review and refine client documents with AI, without leaving Word.
+- **BrandPay** – a webview platform from scratch that runs across iOS, Android and web, with a native-web bridge that makes web feel native.
+- **Postman extension for IDEs** – helped shape it so developers can test APIs without leaving their editor.
+- **CRED** – Money onboarding framework with account-aggregator partners, a growth framework reaching 3.5M+ users at ~60% lower CAC, micro-frontend merchant platform, cash-collection PWA, the NeoPop design system, and launch sites for Money, Garage, UPI, Tap to Pay and Escapes.
+- **Paytm Payments Bank** – the Net Banking platform: balances, transfers, bill payments, loans, cheques and account opening.
+- **Freelance** – Yoi insurance webview, Reaper Financial's Debt Reaping tool, and GoodDollar's daily token-claim platform.
+
+More at [imanshu.works](https://imanshu.works).
+
+### 🛠️ Experience
+
+| Company | Role | When |
 | --- | --- | --- |
-| **Saturn (YC S24)** | Tech Lead | Led frontend architecture for a UK wealth-management compliance platform. Owned the AI suitability-letter platform, moved us to tenant-driven micro-frontends, built version-aware deploys with instant rollback, and took the product into Word, Outlook and Chrome. |
-| **Postman** | Senior Engineer IC4 | Led the IDE team. Shared API modules across IDE and web (~60% less maintenance), real-time script sync under 100ms, a TS language-server plugin for IntelliSense, and AI-assisted scripting. |
-| **CRED** | Senior Frontend Engineer | Led web for Wealth, Rewards & Growth. CRED Money onboarding (384K sign-ups in 30 days), growth products reaching 3.5M+ users, and a JSON-driven UI system + low-code builder that cut turnaround by up to 70%. |
-| **Paytm Payments Bank** | Software Engineer | Net Banking features, a component library used across all the bank's web platforms, and a BFF + security layer that cut attack incidence from 22% to 4.2%. |
-| **GlobalLogic** | Associate SWE | Client web apps for Petplan and Naviga. |
+| **Saturn (YC S24)** | Tech Lead | Aug 2025 – May 2026 |
+| **BrandPay** | Frontend & Platform Consultant | May 2025 – Jun 2026 |
+| **Postman** | Senior Engineer IC4 | Mar 2025 – Aug 2025 |
+| **CRED** | Senior Frontend Engineer | May 2022 – Mar 2025 |
+| **Paytm Payments Bank** | Software Engineer | Jan 2021 – May 2022 |
+| **GlobalLogic** | Associate Software Engineer | Oct 2019 – Jan 2021 |
 
 ### 💬 Ask me about
 
-Micro-frontends & Module Federation · build tooling (Rspack, Webpack, Vite) · monorepos · design systems · AI agents & MCP · React performance
+Micro-frontends & Module Federation · build tooling (Rspack, Webpack, Vite) · monorepos · design systems · webview platforms · AI agents & MCP
 
 ### 🧰 Stack
 
@@ -39,6 +57,7 @@ Micro-frontends & Module Federation · build tooling (Rspack, Webpack, Vite) · 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styledcomponents&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat&logo=greensock&logoColor=black)
 <br/>
@@ -46,14 +65,13 @@ Micro-frontends & Module Federation · build tooling (Rspack, Webpack, Vite) · 
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat&logo=turborepo&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 <br/>
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat&logo=openai&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat&logo=modelcontextprotocol&logoColor=white)
-![OpenAI Agents SDK](https://img.shields.io/badge/OpenAI_Agents_SDK-412991?style=flat&logo=openai&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat&logo=sentry&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
@@ -64,6 +82,10 @@ Micro-frontends & Module Federation · build tooling (Rspack, Webpack, Vite) · 
 - [Implementing Authentication Flow in React](https://medium.com/@imanshurathore/implementing-authentication-flow-in-react-4a4177b63e56?source=rss-f62728892096------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 🎮 Off the clock
+
+Dominating (or getting wrecked) in FPS games, sinking shots at snooker, or chasing new adventures on my bike/car.
+
 ### 📫 Reach me
 
-Open to new roles and freelance/contract work. Email **imanshurathore@gmail.com** or find me on [LinkedIn](https://linkedin.com/in/imanshurathore).
+The fastest way to reach me is email: **imanshurathore@gmail.com**
